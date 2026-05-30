@@ -8,7 +8,7 @@ Maria Eduarda Santana de Souza
 
 ---
 
-# Máquina de Café com POO
+# Máquina de Café com poo
 
 ## Descrição
 
